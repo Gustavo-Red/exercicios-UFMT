@@ -31,6 +31,6 @@ while numero02!=0:
     numero02 = numero02 // 10
 
 if(resultado == numero):
-    print("É um numnero de Armstrong")
+    print("É um número de Armstrong")
 else:
     print("Não é um número de Armstrong")
